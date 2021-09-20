@@ -1,5 +1,5 @@
 // mod conditionals;
-mod loops;
+mod functions;
 
 fn main() {
     // print::run();
@@ -8,5 +8,6 @@ fn main() {
     // strings::run();
     // tuples::run();
     // arrays::run();
-    loops::run();
+    // loops::run();
+    functions::run();
 }

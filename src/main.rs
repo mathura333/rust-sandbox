@@ -1,4 +1,4 @@
-mod vectors;
+mod conditionals;
 
 fn main() {
     // print::run();
@@ -7,5 +7,5 @@ fn main() {
     // strings::run();
     // tuples::run();
     // arrays::run();
-    vectors::run();
+    conditionals::run();
 }
